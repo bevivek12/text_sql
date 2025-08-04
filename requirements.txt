@@ -1,0 +1,7 @@
+langchain-groq
+openai
+pymysql
+sqlalchemy
+ragas
+sentence-transformers
+langchain_huggingface
