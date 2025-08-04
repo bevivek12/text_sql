@@ -1,5 +1,3 @@
-streamlit
-langchain
 
 import streamlit as st
 from langchain.utilities import SQLDatabase
